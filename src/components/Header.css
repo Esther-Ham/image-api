@@ -1,0 +1,19 @@
+.header-title {
+    display: flex;
+    padding: 40px;
+    justify-content: center;
+    margin: 0 !important;
+    background-image: linear-gradient(to bottom, #92c0d6, #ffffff);
+    font-family: 'Itim', cursive;
+    color: #649fba;
+    font-size: x-large;
+}
+
+.header-title h1 {
+    margin: 0;
+}
+
+body {
+    margin: auto;
+    padding: auto;
+}
