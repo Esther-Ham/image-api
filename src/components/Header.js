@@ -5,6 +5,7 @@ const Header = () => {
     return (
         <header className='header-title'>
             <h1>Image Search Engine</h1>
+            <p>Powered by the Unsplash API</p>
         </header>
     );
 };

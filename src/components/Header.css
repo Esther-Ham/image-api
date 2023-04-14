@@ -1,12 +1,17 @@
 .header-title {
     display: flex;
+    flex-direction: column;
     padding: 40px;
-    justify-content: center;
+    align-items: center;
     margin: 0 !important;
-    background-image: linear-gradient(to bottom, #92c0d6, #ffffff);
+    background-image: linear-gradient(to bottom, #7c939d, #ffffff);
     font-family: 'Itim', cursive;
-    color: #649fba;
+    color: #ecf6fd;
     font-size: x-large;
+}
+
+.header-title p {
+    color: #6e7d84;
 }
 
 .header-title h1 {
